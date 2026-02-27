@@ -1,4 +1,4 @@
-# 🌕 The Moon Timer
+# 🌚 The Moon Timer
 
 A minimalist focus timer with project tracking — built as a Chrome extension.
 
