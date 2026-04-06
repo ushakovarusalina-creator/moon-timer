@@ -14,10 +14,8 @@ Counts up from zero, saves time per project, and keeps running in the background
 - **Project tracking** — create projects, select one, and all work time is saved to it
 - **Runs in the background** — close the popup, timer keeps going
 - **Visual progress ring** — fills up over 60 minutes
-- **Work / Break modes** — switch between focus and rest
 - **Per-project time bars** — see at a glance where your time goes
 - **Reset time per project** — individually clear any project's history
-- **Desktop notifications** — get notified after 60 minutes of focus
 - **Dark UI** — easy on the eyes during long work sessions
 
 ---
